@@ -1,7 +1,7 @@
 <h1 align="center"> Projeto Profile </h1>
 
 <p align="center">
-Programa prático e aplicação de tecnologias WEB. <br/>
+Projeto prático e aplicação de tecnologias WEB. <br/>
 
 <br>
 
@@ -34,4 +34,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Chauanny:wave: [Participe da nossa comunidade!](https://discord.gg/YwXJDaZ5)
+Feito com ♥ by Chauanny :wave: [Participe da nossa comunidade!](https://discord.gg/YwXJDaZ5)
