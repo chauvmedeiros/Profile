@@ -1,7 +1,7 @@
 <h1 align="center"> Projeto Profile </h1>
 
 <p align="center">
-Programa prático e aplicação de tecnologias WEB. <br/>
+Projeto prático e aplicação de tecnologias WEB. <br/>
 
 <br>
 
