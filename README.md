@@ -34,4 +34,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Chauanny:wave: [Participe da nossa comunidade!](https://discord.gg/YwXJDaZ5)
+Feito com ♥ by Chauanny :wave: [Participe da nossa comunidade!](https://discord.gg/YwXJDaZ5)
